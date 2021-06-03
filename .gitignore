@@ -139,3 +139,5 @@ dmypy.json
 *.bin.gz
 
 *.txt
+
+*data/
