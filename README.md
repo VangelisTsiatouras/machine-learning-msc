@@ -1,6 +1,6 @@
 # Machine Learning M.Sc.
 
-This repository contains all the assignments of the M.Sc. Machine Learning course in Computer Science at University of Athens. These assignments cover a broad area of Machine Learning techniques, from simple regression problems to applying deep learning practices.
+This repository contains all the assignments of the M.Sc. Machine Learning course in Computer Science at University of Athens. These assignments cover a broad area of Machine Learning techniques, from simple regression problems to applying deep learning algorithms.
 
 ### Linear Regression (Assignment 1)
 
